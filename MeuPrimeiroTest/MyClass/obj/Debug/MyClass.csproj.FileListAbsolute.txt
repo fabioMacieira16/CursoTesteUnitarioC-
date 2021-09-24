@@ -1,0 +1,6 @@
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClass\bin\Debug\MyClass.dll
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClass\bin\Debug\MyClass.pdb
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClass\obj\Debug\MyClass.dll
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClass\obj\Debug\MyClass.pdb

@@ -1,0 +1,17 @@
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\MyClassTest.dll
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\MyClassTest.pdb
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\obj\Debug\MyClassTest.csproj.AssemblyReference.cache
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\obj\Debug\MyClassTest.csproj.CoreCompileInputs.cache
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\obj\Debug\MyClassTest.csproj.CopyComplete
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\obj\Debug\MyClassTest.dll
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\obj\Debug\MyClassTest.pdb
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\MyClass.dll
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\MyClass.pdb
+C:\Users\fabio.macieira\Documents\Documentos\Cursos\CursoTesteUnitarioC-\MeuPrimeiroTest\MyClassTest\bin\Debug\MyClassTest.dll.config
