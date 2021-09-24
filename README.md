@@ -1,11 +1,15 @@
-## Curso Teste Unitario com C# Basico
+# Curso Teste Unitario com C# Basico
 
-##Udemy
+# Udemy
+  Link do curos: https://www.udemy.com/course/teste-unitario-dotnet/
 
-##Professor 
+# Professor 
+	Faceboook.com/ozirispc
+	Youtube.com/ozirispc
+	twitter.com/ozirispc
+	instagram.com/ozirispc
 
-
-##Tópicos abordados no curso
+# Tópicos abordados no curso
 
 # Usando AAA
 	 - Arange - Act -  Acert  
@@ -14,12 +18,12 @@
 	 Act: Invoca Metodos para testar.
 	 Acert: verifica ação.
 
-#Exception Handling
+# Exception Handling
 
 	 Especifica do typeOf da exception
 	 e o try-catch, bem usando no data-drive tests.
 
-#Boas Praticas
+# Boas Praticas
 
 	 Evitar códigos grande e complicados.
 	 Utilize constantes quando possivel.
